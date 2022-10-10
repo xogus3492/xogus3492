@@ -22,7 +22,7 @@
   <a href="https://velog.io/@xogus3492" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=square&logo=Velog&logoColor=white"/></a>
   <a href="https://www.instagram.com/t_hyeon02/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=square&logo=instagram&logoColor=white"/></a></br>
   
-  ### :email: Mail :email:</br>
+  ### :envelope: Mail :envelope:</br>
   <img src="https://img.shields.io/badge/| wkdxogus3492@gmail.com-EA4335?style=square&logo=Gmail&logoColor=white"/></br>
 
 </div>
