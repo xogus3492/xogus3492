@@ -20,7 +20,7 @@
   
   ### :speech_balloon: SNS :speech_balloon:</br>
   <a href="https://velog.io/@xogus3492" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
-  <a href="https://www.instagram.com/t_hyeon02/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></br>
+  <a href="https://www.instagram.com/taeehyeonn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></br>
   
   ### :envelope: Mail :envelope:</br>
   <img src="https://img.shields.io/badge/| wkdxogus3492@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></br></br>
