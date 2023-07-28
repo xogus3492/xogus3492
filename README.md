@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
   
   ### :speech_balloon: SNS :speech_balloon:</br>
-  <a href="https://velog.io/@xogus3492" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+  <a href="https://taehyeon-stroy.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
   <a href="https://www.instagram.com/taeehyeonn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></br>
   
   ### :envelope: Mail :envelope:</br>
