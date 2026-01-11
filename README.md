@@ -10,6 +10,7 @@
 
 🔗 Link
 - `Portfolio`: https://taehyeon-portfolio.com
+- `LinkedIn`: https://www.linkedin.com/in/tae-hyeon-jang-25780032a
 - `Tech Blog`: https://taehyeon-stroy.tistory.com
 
 ---
