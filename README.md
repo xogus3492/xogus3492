@@ -17,3 +17,10 @@
 
 📞 Contact
 - `Email`: wkdxogus3492@gmail.com
+
+---
+
+🪪 Baekjoon Tier
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xogus3492)](https://solved.ac/xogus3492)
+
